@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Picaditas",
+    "precio": 1.5,
+    "stock": 47
+  },
+  {
+    "id": 2,
+    "nombre": "Soyumy",
+    "precio": 2.0,
+    "stock": 19
+  },
+  {
+    "id": 3,
+    "nombre": "Huevos",
+    "precio": 1.0,
+    "stock": 23
+  }
+]
